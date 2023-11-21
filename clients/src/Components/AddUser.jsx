@@ -58,7 +58,8 @@ const AddUser = () => {
 
 export default AddUser;
 
-
+//Below code is imorted from figma so it is not still compatible with our API and database
+//so let be commented
 // import styled from "styled-components";
 
 // const BackToWebsite = styled.div`
